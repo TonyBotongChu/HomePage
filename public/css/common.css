@@ -1,0 +1,43 @@
+.weather {
+    background-color: #aaaaff;
+}
+
+h2 {
+    text-align: center;
+    color: #3385ff !important;
+}
+
+.web_address td {
+    width: 200px;
+    overflow: hidden
+}
+
+.web_address {
+    margin: auto;
+    border: 1px solid #4169E1;
+    width: fit-content;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline
+}
+
+#baidu button {
+    width: 100px;
+    height: 40px;
+    background: #3385ff;
+    color: #fff;
+    border: none;
+}
